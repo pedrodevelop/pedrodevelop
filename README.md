@@ -1,6 +1,6 @@
 # Olá e bem-vindo ao meu mundo! 😁
 
-- 🎂 21 anos
+- 🎂 22 anos
 - 🎓 Cursando Sistemas de Informação
 - 💻 Desenvolvedor Front End com foco em React
 

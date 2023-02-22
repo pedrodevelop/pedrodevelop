@@ -1,7 +1,7 @@
 # Olá e bem-vindo(a) ao meu mundo! 😁
 
 - 🎂 22 anos
-- 🎓 Cursando Sistemas de Informação
+- 🎓 Bacharel em Sistemas de Informação
 - 💻 Desenvolvedor Front End com foco em React
 
 ##

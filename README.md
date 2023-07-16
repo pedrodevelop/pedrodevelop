@@ -1,8 +1,6 @@
-# Olá e bem-vindo(a) ao meu mundo! 😁
+# Hi, welcome to my world! 😁
 
-- 🎂 22 anos
-- 🎓 Bacharel em Sistemas de Informação
-- 💻 Desenvolvedor Front End com foco em React e Typescript
+- 🎓 Bachelor of Information Systems
 
 ##
 

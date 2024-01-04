@@ -27,7 +27,7 @@
       <img align="center" title="MaterialUI" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
       <img align="center" title="Storybook" alt="Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
       <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-      <img align="center" title="NextJs" alt="NextJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+      <img align="center" title="NextJs" alt="NextJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
       <img align="center" title="TailWind" alt="Tailwind Css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
       <img align="center" title="Firebase" alt="Firebase" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <br />

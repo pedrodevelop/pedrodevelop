@@ -1,10 +1,10 @@
 # Hi, welcome to my world! 😁
 
-- 🎓 Bachelor of Information Systems
+- 🎓 Bachelor of Information Systems, working as a Front End Developer.
 
 ##
 
-#### 🤖 Meus Stats
+#### 🤖 My Stats
 <div style="display: inline_block;" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrodevelop&show_icons=true&theme=tokyonight&count_private=true&border_radius=22"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevelop&layout=compact&langs_count=7&theme=tokyonight&border_radius=16"/>
@@ -12,11 +12,11 @@
 
 ##
 
-#### 🧠 Tecnologias
+#### 🧠 Stacks
 
 <div style="display: block;">
   <kbd align="center">
-      <kbd>Conhecimento em:</kbd>
+      <kbd>I have knowledge of:</kbd>
       <br />
       <br />
       <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -30,11 +30,12 @@
       <img align="center" title="NextJs" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
       <img align="center" title="TailWind" alt="Tailwind Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
       <img align="center" title="Firebase" alt="Firebase" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+      <img align="center" title="Figma" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <br />
   <br /> 
   </kbd>
   <kbd align="center">
-  <kbd>Interesse em:</kbd> 
+  <kbd>I'm interested in:</kbd> 
      <br />
      <br /> 
       <img align="center" title="SASS" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -46,7 +47,7 @@
 
 ##
 
-#### 💬 Contato
+#### 💬 Contact
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-xavier-768381198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

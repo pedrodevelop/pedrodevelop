@@ -69,13 +69,107 @@
   "about": "Desenvolvedor Front-end e Bacharel em Sistemas de Informação. Tenho paixão por criar soluções em software que resolvam problemas reais.
 
 Posso dizer que sou uma pessoa comunicativa e muito amigável. Gosto de estar sempre interagindo com outras pessoas que fazer parte do meu ciclo, gosto de ajudar e também ser ajudado.",
-  "showStars": "true",
-  "showFollowers": "false",
-  "followers": "8",
-  "following": "10",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 8,
+  "following": 10,
   "themeId": "professional",
-  "tech": ["React","NextJS","Typescript","Javascript","HTML","CSS","Bootstrap","TailwindCSS","MantineDev","Material UI","Storybook","Figma","Firebase","PostgreSQL"],
-  "projects": [{"id":724813803,"repoName":"capLinkChallenge","url":"https://github.com/pedrodevelop/capLinkChallenge","stars":0,"description":"Aplicação web inspirada em e-commerce onde o usuário navega, escolhe e favorita produtos, adiciona-os ao carrinho, ajusta quantidades, remove itens específicos e, de forma simples e intuitiva.","image":"https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-570c8803-53c6-4ee5-aa72-5a5b92962b36.png?alt=media&token=d8d25ff1-5a06-4b4a-8692-d8f2fef24f2f","techs":["CSS","HTML","Javascript","NextJs","ReactJs","TailwindCSS","Typescript"],"deploy":"https://cap-link-challenge.vercel.app","highlighted":true},{"id":481780030,"repoName":"calculator","url":"https://github.com/pedrodevelop/calculator","stars":0,"description":"Calculadora inspirada no iphone, usuário pode realizar diversas operações (básicas, fatorial, potência).","image":"https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-dcdd575f-252f-4c45-a931-f68cbfcceaf3.png?alt=media&token=af64a452-038b-48ec-9954-6e99957233ab","techs":["HTML","Javascript","NextJs","ReactJs","MaterialUI","Styled Components"],"deploy":"https://calculator-react-next.vercel.app","highlighted":false},{"id":640429355,"repoName":"BitCENT","url":"https://github.com/pedrodevelop/BitCENT","stars":0,"description":"Aplicação web voltada ao controle financeiro pessoal. Conta com autenticação Google via OAuth, visualização de receitas e despesas mensais, cadastro e exclusão delas, além de acessar o histórico.","image":"","techs":["CSS","HTML","NextJs","ReactJs","TailwindCSS","Typescript","Figma","Firebase"],"deploy":"https://bit-cent-one.vercel.app","highlighted":true},{"id":697065950,"repoName":"softExpertChallenge","url":"https://github.com/pedrodevelop/softExpertChallenge","stars":0,"description":"Game onde o usuário deve adivinhar a cor visualizada no quadrado através do seu código hexadecimal, conta com histórico em tempo real de tentativas, e 3 dificuldades distintas.","image":"https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-480188d6-1eba-4b52-ba2d-76ad474ab827.png?alt=media&token=fe620372-bf03-43c3-9e60-3777476fc23c","techs":["CSS","HTML","Javascript","Jest","React Testing Library","NextJs","ReactJs","TailwindCSS","Typescript"],"deploy":"https://soft-expert-challenge.vercel.app","highlighted":true}]
+  "tech": [
+  "React",
+  "NextJS",
+  "Typescript",
+  "Javascript",
+  "HTML",
+  "CSS",
+  "Bootstrap",
+  "TailwindCSS",
+  "MantineDev",
+  "Material UI",
+  "Storybook",
+  "Figma",
+  "Firebase",
+  "PostgreSQL"
+],
+  "projects": [
+  {
+    "id": 724813803,
+    "repoName": "capLinkChallenge",
+    "url": "https://github.com/pedrodevelop/capLinkChallenge",
+    "stars": 0,
+    "description": "Aplicação web inspirada em e-commerce onde o usuário navega, escolhe e favorita produtos, adiciona-os ao carrinho, ajusta quantidades, remove itens específicos e, de forma simples e intuitiva.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-570c8803-53c6-4ee5-aa72-5a5b92962b36.png?alt=media&token=d8d25ff1-5a06-4b4a-8692-d8f2fef24f2f",
+    "techs": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript"
+    ],
+    "deploy": "https://cap-link-challenge.vercel.app",
+    "highlighted": true
+  },
+  {
+    "id": 481780030,
+    "repoName": "calculator",
+    "url": "https://github.com/pedrodevelop/calculator",
+    "stars": 0,
+    "description": "Calculadora inspirada no iphone, usuário pode realizar diversas operações (básicas, fatorial, potência).",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-dcdd575f-252f-4c45-a931-f68cbfcceaf3.png?alt=media&token=af64a452-038b-48ec-9954-6e99957233ab",
+    "techs": [
+      "HTML",
+      "Javascript",
+      "NextJs",
+      "ReactJs",
+      "MaterialUI",
+      "Styled Components"
+    ],
+    "deploy": "https://calculator-react-next.vercel.app",
+    "highlighted": false
+  },
+  {
+    "id": 640429355,
+    "repoName": "BitCENT",
+    "url": "https://github.com/pedrodevelop/BitCENT",
+    "stars": 0,
+    "description": "Aplicação web voltada ao controle financeiro pessoal. Conta com autenticação Google via OAuth, visualização de receitas e despesas mensais, cadastro e exclusão delas, além de acessar o histórico.",
+    "image": "",
+    "techs": [
+      "CSS",
+      "HTML",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript",
+      "Figma",
+      "Firebase"
+    ],
+    "deploy": "https://bit-cent-one.vercel.app",
+    "highlighted": true
+  },
+  {
+    "id": 697065950,
+    "repoName": "softExpertChallenge",
+    "url": "https://github.com/pedrodevelop/softExpertChallenge",
+    "stars": 0,
+    "description": "Game onde o usuário deve adivinhar a cor visualizada no quadrado através do seu código hexadecimal, conta com histórico em tempo real de tentativas, e 3 dificuldades distintas.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-480188d6-1eba-4b52-ba2d-76ad474ab827.png?alt=media&token=fe620372-bf03-43c3-9e60-3777476fc23c",
+    "techs": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "Jest",
+      "React Testing Library",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript"
+    ],
+    "deploy": "https://soft-expert-challenge.vercel.app",
+    "highlighted": true
+  }
+]
 }
 GitFolio:end -->
-
+  

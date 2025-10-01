@@ -59,133 +59,114 @@
 <!-- GitFolio:start
 {
   "gitfolio": "on",
-  "name": "Luciana Kyoko",
-  "email": "meu@email.com",
+  "name": "Pedro Henrique",
+  "email": "pedro_ph_x@hotmail.com",
   "tagline": "Front-End Developer",
-  "avatar_url": "https://avatars.githubusercontent.com/u/69259218?v=4",
-  "website": "https://lucianakyoko.vercel.app/",
-  "githubUser": "lucianakyoko",
-  "linkedinUser": "https://www.linkedin.com/in/lucianakyoko/",
-  "about": "Apaixonada por código, movida pela curiosidade e dedicada a criar experiências únicas.\\nCada projeto que desenvolvo carrega uma parte de mim, são feitos com carinho, dedicação e o desejo constante de seguir evoluindo.\\nAcredito que a tecnologia é um campo onde nunca se para de aprender, e estou animada para ver onde essa jornada me levará.",
+  "avatar_url": "https://avatars.githubusercontent.com/u/51206522?v=4",
+  "website": "",
+  "githubUser": "pedrodevelop",
+  "linkedinUser": "https://avatars.githubusercontent.com/u/51206522?v=4",
+  "about": "Desenvolvedor Front-end e Bacharel em Sistemas de Informação. Tenho paixão por criar soluções em software que resolvam problemas reais.\\nPosso dizer que sou uma pessoa comunicativa e muito amigável. Gosto de estar sempre interagindo com outras pessoas que fazer parte do meu ciclo, gosto de ajudar e também ser ajudado.",
   "showStars": true,
   "showFollowers": true,
-  "followers": 189,
-  "following": 57,
+  "followers": 8,
+  "following": 10,
   "themeId": "cyberpunk",
-  "tech": ["React", "TypeScript", "Next.JS", "Node.js", "NestJS", "MongoDB", "TailwindCSS"],
+  "tech": [
+  "React",
+  "NextJS",
+  "Typescript",
+  "Javascript",
+  "HTML",
+  "CSS",
+  "Bootstrap",
+  "TailwindCSS",
+  "MantineDev",
+  "Material UI",
+  "Storybook",
+  "Figma",
+  "Firebase",
+  "PostgreSQL"
+],
   "projects": [
-    {
-      "id": 774354121,
-      "repoName": "prosperizza",
-      "url": "https://github.com/lucianakyoko/prosperizza",
-      "stars": 0,
-      "description": "Case: Pizzaria - Este projeto faz parte do programa Ponte, um projeto de iniciativa da ProsperTech",
-      "image": "https://github.com/lucianakyoko/prosperizza/blob/main/.github/home-screenshot.png?raw=true",
-      "techs": [
-        "React",
-        "Next.js14",
-        "MongoDB Atlas",
-        "Mongoose",
-        "Axios",
-        "TailwindCSS",
-        "Figma"
-      ],
-      "deploy": "https://prosperizza.vercel.app/",
-      "highlighted": true
-    },
-    {
-      "id": 514075986,
-      "repoName": "flappy-mario",
-      "url": "https://github.com/lucianakyoko/flappy-mario",
-      "stars": 2,
-      "description": "Jogo baseado no já extinto Flappy Bird",
-      "image": "https://raw.githubusercontent.com/lucianakyoko/flappy-mario/d12b2a3cb756a95c9c971c2e76cce99a2fa77450/.github/thumb.svg",
-      "techs": [
-        "JavaScript",
-        "CanvasAPI",
-        "Sprites",
-        "Figma"
-      ],
-      "deploy": "https://flappy-mario.vercel.app/",
-      "highlighted": true
-    },
-    {
-      "id": 846196158,
-      "repoName": "elementum-ds",
-      "url": "https://github.com/lucianakyoko/elementum-ds",
-      "stars": 0,
-      "description": "Design System no front-end usando Storybooks, Next.js14 e TailwindCSS",
-      "image": "https://raw.githubusercontent.com/lucianakyoko/elementum-ds/d7d38955014ad200abb92b39b346391cebfb81b3/.github/thumbnail.svg",
-      "techs": [
-        "Next.js14",
-        "TypeScript",
-        "TailwindCSS",
-        "Storybook",
-        "Figma"
-      ],
-      "deploy": "",
-      "highlighted": false
-    },
-    {
-      "id": 402834329,
-      "repoName": "Sunnyside-agency-landing-page",
-      "url": "https://github.com/lucianakyoko/Sunnyside-agency-landing-page",
-      "stars": 0,
-      "description": "This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor]",
-      "image": "https://raw.githubusercontent.com/lucianakyoko/Sunnyside-agency-landing-page/34f452287b946e2e24ec647ec0ea457d42ab6af7/github/Thumb.svg",
-      "techs": [
-        "JavaScript",
-        "Sass",
-        "Metodologia BEM"
-      ],
-      "deploy": "https://sunnyside-agency-lk.netlify.app/",
-      "highlighted": true
-    },
-    {
-      "id": 377681183,
-      "repoName": "3D-Card-Hover-Effect",
-      "url": "https://github.com/lucianakyoko/3D-Card-Hover-Effect",
-      "stars": 10,
-      "description": "Efeito 3D no cartão usando JavaScript",
-      "image": "https://github.com/lucianakyoko/3D-Card-Hover-Effect/blob/main/Capturar.JPG?raw=true",
-      "techs": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "deploy": "https://supermario-3dcard.netlify.app/",
-      "highlighted": false
-    },
-    {
-      "id": 355571250,
-      "repoName": "Card-game-Super-Trunfo-CDZ",
-      "url": "https://github.com/lucianakyoko/Card-game-Super-Trunfo-CDZ",
-      "stars": 5,
-      "description": "Jogo de cartas inspirado no Super Trunfo da Grow",
-      "image": "https://raw.githubusercontent.com/lucianakyoko/Card-game-Super-Trunfo-CDZ/main/.github/thumb.png",
-      "techs": [
-        "JavaScript",
-        "CSS3",
-        "HTML5"
-      ],
-      "deploy": "https://supertrunfo-cdz.netlify.app/",
-      "highlighted": false
-    },
-    {
-      "id": 401813432,
-      "repoName": "CaptainMarvel-3D",
-      "url": "https://github.com/lucianakyoko/CaptainMarvel-3D",
-      "stars": 1,
-      "description": "Animação e Paralaxe",
-      "image": "",
-      "techs": [
-        "JavaScript",
-        "Sass",
-        "Figma"
-      ],
-      "deploy": "https://captainmarvel-parallax.netlify.app/",
-      "highlighted": false
-    }
-  ]
+  {
+    "id": 724813803,
+    "repoName": "capLinkChallenge",
+    "url": "https://github.com/pedrodevelop/capLinkChallenge",
+    "stars": 0,
+    "description": "Aplicação web inspirada em e-commerce onde o usuário navega, escolhe e favorita produtos, adiciona-os ao carrinho, ajusta quantidades, remove itens específicos e, de forma simples e intuitiva.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-570c8803-53c6-4ee5-aa72-5a5b92962b36.png?alt=media&token=d8d25ff1-5a06-4b4a-8692-d8f2fef24f2f",
+    "techs": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript"
+    ],
+    "deploy": "https://cap-link-challenge.vercel.app",
+    "highlighted": true
+  },
+  {
+    "id": 481780030,
+    "repoName": "calculator",
+    "url": "https://github.com/pedrodevelop/calculator",
+    "stars": 0,
+    "description": "Calculadora inspirada no iphone, usuário pode realizar diversas operações (básicas, fatorial, potência).",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-dcdd575f-252f-4c45-a931-f68cbfcceaf3.png?alt=media&token=af64a452-038b-48ec-9954-6e99957233ab",
+    "techs": [
+      "HTML",
+      "Javascript",
+      "NextJs",
+      "ReactJs",
+      "MaterialUI",
+      "Styled Components"
+    ],
+    "deploy": "https://calculator-react-next.vercel.app",
+    "highlighted": false
+  },
+  {
+    "id": 640429355,
+    "repoName": "BitCENT",
+    "url": "https://github.com/pedrodevelop/BitCENT",
+    "stars": 0,
+    "description": "Aplicação web voltada ao controle financeiro pessoal. Conta com autenticação Google via OAuth, visualização de receitas e despesas mensais, cadastro e exclusão delas, além de acessar o histórico.",
+    "image": "",
+    "techs": [
+      "CSS",
+      "HTML",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript",
+      "Figma",
+      "Firebase"
+    ],
+    "deploy": "https://bit-cent-one.vercel.app",
+    "highlighted": true
+  },
+  {
+    "id": 697065950,
+    "repoName": "softExpertChallenge",
+    "url": "https://github.com/pedrodevelop/softExpertChallenge",
+    "stars": 0,
+    "description": "Game onde o usuário deve adivinhar a cor visualizada no quadrado através do seu código hexadecimal, conta com histórico em tempo real de tentativas, e 3 dificuldades distintas.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devpool-110a7.appspot.com/o/users%2F1f8255dd-bfca-45df-80ec-86334eda5bcf%2Fproject-480188d6-1eba-4b52-ba2d-76ad474ab827.png?alt=media&token=fe620372-bf03-43c3-9e60-3777476fc23c",
+    "techs": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "Jest",
+      "React Testing Library",
+      "NextJs",
+      "ReactJs",
+      "TailwindCSS",
+      "Typescript"
+    ],
+    "deploy": "https://soft-expert-challenge.vercel.app",
+    "highlighted": true
+  }
+]
 }
 GitFolio:end -->

@@ -71,7 +71,7 @@
   "showFollowers": true,
   "followers": 8,
   "following": 10,
-  "themeId": "cyberpunk",
+  "themeId": "minimal",
   "tech": [
   "React",
   "NextJS",

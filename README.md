@@ -71,7 +71,7 @@
   "showFollowers": true,
   "followers": 8,
   "following": 10,
-  "themeId": "professional",
+  "themeId": "modern",
   "tech": [
   "React",
   "NextJS",
@@ -91,7 +91,7 @@
   "projects": [
   {
     "id": 724813803,
-    "repoName": "capLinkChallenge",
+    "repoName": "Acme Inc.",
     "url": "https://github.com/pedrodevelop/capLinkChallenge",
     "stars": 0,
     "description": "Aplicação web inspirada em e-commerce onde o usuário navega, escolhe e favorita produtos, adiciona-os ao carrinho, ajusta quantidades, remove itens específicos e, de forma simples e intuitiva.",
@@ -110,7 +110,7 @@
   },
   {
     "id": 481780030,
-    "repoName": "calculator",
+    "repoName": "Calculator",
     "url": "https://github.com/pedrodevelop/calculator",
     "stars": 0,
     "description": "Calculadora inspirada no iphone, usuário pode realizar diversas operações (básicas, fatorial, potência).",
@@ -148,7 +148,7 @@
   },
   {
     "id": 697065950,
-    "repoName": "softExpertChallenge",
+    "repoName": "Guess the Color",
     "url": "https://github.com/pedrodevelop/softExpertChallenge",
     "stars": 0,
     "description": "Game onde o usuário deve adivinhar a cor visualizada no quadrado através do seu código hexadecimal, conta com histórico em tempo real de tentativas, e 3 dificuldades distintas.",

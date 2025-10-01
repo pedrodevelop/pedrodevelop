@@ -71,7 +71,7 @@
   "showFollowers": true,
   "followers": 8,
   "following": 10,
-  "themeId": "creative",
+  "themeId": "dark",
   "tech": [
   "React",
   "NextJS",

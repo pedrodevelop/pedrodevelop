@@ -71,7 +71,7 @@
   "showFollowers": true,
   "followers": 8,
   "following": 10,
-  "themeId": "minimal",
+  "themeId": "professional",
   "tech": [
   "React",
   "NextJS",
